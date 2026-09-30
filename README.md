@@ -136,3 +136,81 @@ Prioritized remediation initiatives are organized into a three-year improvement 
 Corrective actions are tracked through an action plan containing remediation owners, milestones, target dates, implementation status, and validation evidence.
 
 After remediation, affected controls can be reassessed to determine whether residual risk has been reduced to an acceptable level.
+
+---
+
+## NIST CSF Assessment Results
+
+The assessment identified several existing cybersecurity strengths as well as significant gaps across the NIST CSF functions.
+
+### Identify
+
+**Strengths**
+- Established business strategy and objectives.
+- Network and cloud architecture documentation exists.
+- Business continuity and disaster recovery capabilities are established.
+
+**Key Gaps**
+- No formal cybersecurity risk management process.
+- No defined cybersecurity risk appetite or tolerance.
+- Cybersecurity roles and responsibilities are not fully formalized.
+- No comprehensive information security policy.
+- Software, SaaS applications, and third-party systems are not fully inventoried and classified.
+- No formal third-party cybersecurity risk management process.
+- Cybersecurity threats and business impacts are not formally assessed and documented.
+
+### Protect
+
+**Strengths**
+- Active Directory provides centralized identity management.
+- Microsoft Defender provides endpoint protection.
+- Palo Alto firewalls and VLANs provide network protection and segmentation.
+- Physical security controls are established.
+- Backups are regularly performed and periodically tested.
+
+**Key Gaps**
+- Multi-factor authentication is not implemented.
+- Shared privileged administrator credentials exist.
+- Privileged Access Management (PAM) is not implemented.
+- Least privilege and access reviews are not consistently enforced.
+- Data classification and Data Loss Prevention (DLP) are not established.
+- Formal change-management processes are not established.
+- Vulnerability management has historically been performed on an ad-hoc basis.
+
+### Detect
+
+**Strengths**
+- Microsoft Defender provides endpoint security telemetry.
+- Tenable provides vulnerability visibility.
+- Physical security monitoring is established.
+
+**Key Gaps**
+- No centralized SIEM capability.
+- Security logs are not centrally aggregated and correlated.
+- No formal security-event analysis and prioritization process.
+- Detection thresholds and escalation procedures are not formally established.
+- Detection capabilities are not routinely tested.
+- Detection processes lack formal continuous improvement.
+
+### Respond
+
+**Key Gaps**
+- No formal cybersecurity Incident Response Plan.
+- Incident response roles and responsibilities are not formally documented.
+- Incident severity and escalation criteria are not established.
+- Formal containment, mitigation, and eradication procedures are not established.
+- No formal digital forensics capability.
+- Incident response exercises are not routinely conducted.
+- Lessons learned are not formally incorporated into response improvements.
+
+### Recover
+
+**Strengths**
+- Documented disaster recovery planning.
+- Periodic disaster recovery testing.
+- Regular backups and backup testing.
+- Established business continuity planning.
+- Recovery procedures are periodically reviewed and improved.
+- Recovery communication and escalation procedures are established.
+
+Overall, Oscorp has established several foundational technical and recovery capabilities but lacks the governance, risk management, identity security, monitoring, and incident response processes required for a mature enterprise cybersecurity program.
