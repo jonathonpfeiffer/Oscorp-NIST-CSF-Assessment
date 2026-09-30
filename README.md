@@ -36,6 +36,35 @@ The objectives of this assessment are to:
 
 ---
 
+## Oscorp Environment
+
+Oscorp is a fictional organization of approximately **200 employees** operating primarily within a Microsoft cloud environment.
+
+### Technology Environment
+
+| Technology | Purpose |
+|---|---|
+| Microsoft Azure | Cloud infrastructure |
+| Microsoft 365 | Business productivity and cloud services |
+| Active Directory | Identity and access management |
+| Microsoft Defender | Endpoint protection |
+| Tenable Vulnerability Management | Vulnerability scanning and management |
+| Palo Alto NGFW | Network security |
+| VLANs | Network segmentation |
+| VPN | Remote access |
+| Windows SOE | Standardized Windows endpoints |
+| Horizon Labs | Critical third-party SaaS application |
+
+### Cybersecurity Team
+
+- **Cybersecurity Analyst** — Supports security operations and incident investigation.
+- **Network Engineer** — Manages network security and firewall infrastructure.
+- **Senior Cybersecurity Consultant** — Conducts the NIST CSF assessment and develops the cybersecurity improvement strategy.
+
+Cybersecurity responsibilities are currently distributed across the IT organization and have not been fully formalized.
+
+---
+
 ## Assessment & Risk Management Process
 
 ### 1. NIST CSF Assessment
