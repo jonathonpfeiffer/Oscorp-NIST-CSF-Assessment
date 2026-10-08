@@ -93,7 +93,7 @@ Examples include:
 
 Major findings are evaluated using a qualitative risk methodology based on:
 
-**Likelihood × Impact = Inherent Risk**
+**Likelihood × Impact = Current Risk Score**
 
 The initial assessment uses a 1–5 scale for likelihood and impact to support consistent risk classification and prioritization.
 
@@ -212,5 +212,24 @@ The assessment identified several existing cybersecurity strengths as well as si
 - Established business continuity planning.
 - Recovery procedures are periodically reviewed and improved.
 - Recovery communication and escalation procedures are established.
+
+### Govern (GV)
+
+**Key Gaps**
+
+- No formal cybersecurity governance framework.
+- Cybersecurity risk appetite and tolerance are not formally established.
+- Cybersecurity roles, responsibilities, and accountability are not fully documented.
+- No comprehensive information security policy.
+- Cybersecurity risk management is not consistently integrated into organizational decision-making.
+- Third-party cybersecurity risk management lacks formal oversight.
+
+**Recommended Improvements**
+
+- Establish a cybersecurity governance structure with defined accountability.
+- Document cybersecurity policies and management responsibilities.
+- Define organizational risk appetite and tolerance.
+- Establish periodic cybersecurity risk reporting to leadership.
+- Integrate supplier cybersecurity risk management into organizational governance.
 
 Overall, Oscorp has established several foundational technical and recovery capabilities but lacks the governance, risk management, identity security, monitoring, and incident response processes required for a mature enterprise cybersecurity program.
