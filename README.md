@@ -446,18 +446,15 @@ These supporting projects are distinct from the simulated Oscorp organizational 
 
 ## 11. Project Deliverables
 
-The assessment workbook and detailed risk analysis provide the supporting assessment documentation. Additional management deliverables, including the risk register, risk matrix, roadmap, and remediation action plan, are being finalized for publication.
+The following deliverables present the results of Oscorp's targeted NIST CSF 2.0 cybersecurity risk assessment.
 
-| Deliverable | Purpose |
+| Deliverable | Description |
 |---|---|
-| NIST CSF 2.0 Assessment Workbook | Documents selected control assessment questions, current-state observations, and identified deficiencies. |
-| Detailed Cybersecurity Risk Analysis | Documents seven risk scenarios, existing controls, likelihood and impact rationale, and recommended treatment. |
-| Cybersecurity Risk Register | Consolidates risk scores, severity ratings, remediation priorities, and treatment recommendations. |
-| Risk Matrix | Visualizes assessed likelihood and impact levels. |
-| Three-Year Cybersecurity Roadmap | Presents proposed remediation sequencing and strategic improvement initiatives. |
-| Remediation Action Plan | Tracks recommended actions, ownership, milestones, and validation requirements. |
+| Executive Cybersecurity Assessment Report | Executive-level findings, NIST CSF 2.0 alignment, business risk implications, and recommended security improvements. |
+| Cybersecurity Risk Analysis | Detailed analysis of seven cybersecurity risk scenarios, including likelihood, impact, existing controls, and remediation priorities. |
+| Risk Management Workbook | Risk register, 5×5 risk matrix, remediation action plan, and proposed three-year cybersecurity improvement roadmap. |
 
-Supporting deliverables are published as part of the repository as they are finalized.
+All deliverables use the same assessment scope, risk identifiers, scoring methodology, and remediation priorities. Findings are based on the simulated Oscorp environment and documented scenario assumptions.
 
 ---
 
