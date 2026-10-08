@@ -71,9 +71,11 @@ Cybersecurity responsibilities are currently distributed across the IT organizat
 
 Oscorp's current cybersecurity capabilities are assessed across the five NIST CSF functions:
 
-**Identify → Protect → Detect → Respond → Recover → Govern **
+**Govern → Identify → Protect → Detect → Respond → Recover**
 
-Controls are evaluated against the organization's current environment to identify existing capabilities and cybersecurity deficiencies.
+This project uses a high-level, risk-based assessment aligned with NIST CSF 2.0. Related framework outcomes are grouped into practical control assessment questions rather than evaluating every subcategory individually.
+
+Controls are evaluated against Oscorp's current environment to identify existing capabilities and cybersecurity deficiencies. Assessment findings are consolidated into business risk scenarios to support remediation prioritization and the three-year cybersecurity roadmap.
 
 ### 2. Key Findings
 
