@@ -79,13 +79,11 @@ Cybersecurity responsibilities are distributed across the IT organization and ar
 
 ### 4.1 Assessment Framework
 
-The engagement applies a targeted, risk-based assessment aligned with the six functions of **NIST CSF 2.0**:
+The assessment evaluates selected cybersecurity controls across the six NIST CSF 2.0 functions:
 
 **Govern → Identify → Protect → Detect → Respond → Recover**
 
-The assessment applies NIST CSF 2.0 to evaluate selected cybersecurity controls across the six framework functions, focusing on material security gaps, business risk exposure, and opportunities for risk reduction.
-
-Related framework outcomes are grouped into practical assessment questions, allowing the evaluation to emphasize material control deficiencies and their business consequences.
+Control assessment questions are used to identify security gaps, evaluate business risk exposure, and recommend improvements based on their potential impact on Oscorp's operations.
 
 ### 4.2 Assessment Focus Areas
 
@@ -253,7 +251,7 @@ Identified cybersecurity risks are evaluated using a qualitative likelihood and 
 
 Both likelihood and impact are evaluated on a scale of 1–5.
 
-- **Likelihood:** The estimated probability of the risk scenario occurring, considering the threat environment, identified deficiencies, and existing controls.
+- **Likelihood:** A qualitative estimate of how likely a risk scenario is to occur, considering threat exposure, identified vulnerabilities, and existing security controls.
 - **Impact:** The potential consequences for business operations, information security, financial performance, and organizational objectives.
 
 The resulting score ranges from **1 to 25**.
@@ -364,29 +362,34 @@ The proposed roadmap organizes security improvements into three implementation p
 
 ### Year 1 — Immediate Risk Reduction & Foundational Controls
 
-**Primary Focus:** Reduce high-priority exposure and establish essential security processes.
+**Primary Focus:** Reduce high-priority cybersecurity risks and establish essential security processes.
 
-Proposed initiatives:
+**Proposed Initiatives:**
 
 - Implement MFA and strengthen privileged account security.
-- Establish critical security-log collection and alert escalation.
-- Develop and approve an incident-response plan.
-- Establish vulnerability remediation SLAs and recurring scanning.
-- Assign cybersecurity risk owners and establish a basic risk register.
-- Initiate critical supplier reviews and identify sensitive data.
+- Establish critical security-log collection, monitoring, and alert escalation.
+- Develop and approve an incident response plan and initial response playbooks.
+- Establish vulnerability remediation SLAs and recurring authenticated scanning.
+- Identify and classify sensitive business information to support risk-based access controls.
+- Assign cybersecurity risk owners and establish formal risk reporting.
+- Initiate cybersecurity assessments of critical third-party suppliers.
+
+**Expected Outcome:** Reduced exposure to unauthorized access, improved threat visibility, faster incident response, and stronger protection of sensitive information.
 
 ### Year 2 — Security Capability Development
 
-**Primary Focus:** Strengthen detection, prevention, and repeatable security operations.
+**Primary Focus:** Expand security capabilities and establish consistent, repeatable cybersecurity processes.
 
-Proposed initiatives:
+**Proposed Initiatives:**
 
-- Expand SIEM coverage and detection engineering.
-- Implement additional privileged access management controls.
-- Mature vulnerability management reporting and remediation verification.
-- Expand supplier due diligence and ongoing monitoring.
-- Implement data classification and appropriate DLP capabilities.
-- Conduct incident-response tabletop exercises.
+- Expand SIEM coverage and improve detection engineering.
+- Implement additional Privileged Access Management (PAM) controls.
+- Mature vulnerability remediation reporting and verification.
+- Implement Data Loss Prevention (DLP) controls based on the data classification established in Year 1.
+- Expand supplier cybersecurity due diligence and ongoing monitoring.
+- Conduct incident response tabletop exercises and validate response procedures.
+
+**Expected Outcome:** Improved security monitoring, stronger privileged access controls, reduced data exposure, and more mature cybersecurity operations.
 
 ### Year 3 — Program Optimization & Continuous Improvement
 
@@ -443,7 +446,7 @@ These supporting projects are distinct from the simulated Oscorp organizational 
 
 ## 11. Project Deliverables
 
-The following deliverables support the simulated engagement:
+The assessment workbook and detailed risk analysis provide the supporting assessment documentation. Additional management deliverables, including the risk register, risk matrix, roadmap, and remediation action plan, are being finalized for publication.
 
 | Deliverable | Purpose |
 |---|---|
