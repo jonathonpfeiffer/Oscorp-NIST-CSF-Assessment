@@ -83,7 +83,7 @@ The engagement applies a targeted, risk-based assessment aligned with the six fu
 
 **Govern → Identify → Protect → Detect → Respond → Recover**
 
-Rather than performing an exhaustive assessment of all CSF 2.0 subcategories, the engagement focuses on selected cybersecurity outcomes relevant to Oscorp's identified security weaknesses and business risks.
+The assessment applies NIST CSF 2.0 to evaluate selected cybersecurity controls across the six framework functions, focusing on material security gaps, business risk exposure, and opportunities for risk reduction.
 
 Related framework outcomes are grouped into practical assessment questions, allowing the evaluation to emphasize material control deficiencies and their business consequences.
 
