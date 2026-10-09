@@ -446,16 +446,27 @@ These supporting projects are distinct from the simulated Oscorp organizational 
 
 ## 11. Project Deliverables
 
-The following deliverables present the results of Oscorp's targeted NIST CSF 2.0 cybersecurity risk assessment.
+The following documents present the findings and recommendations from Oscorp's simulated NIST CSF 2.0 cybersecurity risk assessment.
 
-| Deliverable | Description |
-|---|---|
-| Executive Cybersecurity Assessment Report | Executive-level findings, NIST CSF 2.0 alignment, business risk implications, and recommended security improvements. |
-| Cybersecurity Risk Analysis | Detailed analysis of seven cybersecurity risk scenarios, including likelihood, impact, existing controls, and remediation priorities. |
-| Risk Management Workbook | Risk register, 5×5 risk matrix, remediation action plan, and proposed three-year cybersecurity improvement roadmap. |
+### 1. Executive Cybersecurity Assessment Report
 
-All deliverables use the same assessment scope, risk identifiers, scoring methodology, and remediation priorities. Findings are based on the simulated Oscorp environment and documented scenario assumptions.
+Executive-level summary of cybersecurity findings, business risks, remediation priorities, and the proposed three-year improvement strategy.
 
+[View Executive Assessment Report](deliverables/Oscorp_Executive_Cybersecurity_Assessment_Report_Final.pdf)
+
+### 2. Detailed Cybersecurity Risk Analysis
+
+Detailed assessment of seven cybersecurity risks, including supporting findings, likelihood and impact ratings, current risk scores, NIST CSF 2.0 mappings, and recommended risk treatments.
+
+[View Detailed Risk Analysis](deliverables/Oscorp_Cybersecurity_Risk_Analysis_CSF2_Aligned.docx)
+
+### 3. Risk Management Workbook
+
+Supporting Excel workbook containing the cybersecurity risk register, 5×5 risk matrix, remediation plan, and three-year improvement roadmap.
+
+[View Risk Management Workbook](deliverables/Oscorp_Risk_Management_Workbook.xlsx)
+
+**Note:** This project represents a simulated cybersecurity consulting engagement using a fictional organization. Recommendations are proposed improvements rather than verified implementations.
 ---
 
 ## 12. Conclusion
