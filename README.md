@@ -446,17 +446,15 @@ These supporting projects are distinct from the simulated Oscorp organizational 
 
 ## 11. Project Deliverables
 
-The following documents support Oscorp's simulated NIST CSF 2.0 cybersecurity risk assessment.
+The following documents present the results of Oscorp's simulated NIST CSF 2.0 cybersecurity risk assessment.
 
 | Deliverable | Description |
 |---|---|
-| [Executive Cybersecurity Assessment Report](deliverables/Executive%20Report-Final.pdf) | Executive findings, risk priorities, management recommendations, and proposed three-year improvement strategy. |
-| [Detailed Cybersecurity Risk Analysis](deliverables/Risk%20Analysis-Final.docx) | Seven risk scenarios, NIST CSF 2.0 mappings, likelihood and impact analysis, and recommended risk treatments. |
-| [Risk Management Workbook](deliverables/Risk%20Managment%20Matrix-Final.xlsx) | Risk register, risk matrix, remediation action plan, and three-year roadmap. |
+| [Executive Assessment Report](deliverables/Executive-Report.pdf) | Executive summary of cybersecurity findings, risk priorities, and the three-year improvement strategy. |
+| [Detailed Risk Analysis](deliverables/Risk-Analysis.pdf) | Detailed assessment of seven cybersecurity risks, including NIST CSF 2.0 mappings, risk scoring, and recommended treatments. |
+| [Risk Management Matrix](deliverables/Risk-Management-Matrix.pdf) | Risk register, 5×5 risk matrix, remediation plan, three-year roadmap, and assessment methodology. |
 
-All deliverables use consistent risk identifiers, current risk scores, remediation priorities, and assessment assumptions.
-
-**Assessment limitation:** This project represents a simulated cybersecurity consulting engagement based on a fictional organization. Findings and recommendations are not evidence of an independently conducted production audit or formal NIST certification.
+**Assessment Note:** This is a simulated cybersecurity assessment of a fictional organization, created for educational and portfolio purposes.
 ---
 
 ## 12. Conclusion
