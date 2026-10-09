@@ -446,27 +446,17 @@ These supporting projects are distinct from the simulated Oscorp organizational 
 
 ## 11. Project Deliverables
 
-The following documents present the findings and recommendations from Oscorp's simulated NIST CSF 2.0 cybersecurity risk assessment.
+The following documents support Oscorp's simulated NIST CSF 2.0 cybersecurity risk assessment.
 
-### 1. Executive Cybersecurity Assessment Report
+| Deliverable | Description |
+|---|---|
+| [Executive Cybersecurity Assessment Report](deliverables/Executive%20Report-Final.pdf) | Executive findings, risk priorities, management recommendations, and proposed three-year improvement strategy. |
+| [Detailed Cybersecurity Risk Analysis](deliverables/Risk%20Analysis-Final.docx) | Seven risk scenarios, NIST CSF 2.0 mappings, likelihood and impact analysis, and recommended risk treatments. |
+| [Risk Management Workbook](deliverables/Risk%20Managment%20Matrix-Final.xlsx) | Risk register, risk matrix, remediation action plan, and three-year roadmap. |
 
-Executive-level summary of cybersecurity findings, business risks, remediation priorities, and the proposed three-year improvement strategy.
+All deliverables use consistent risk identifiers, current risk scores, remediation priorities, and assessment assumptions.
 
-[View Executive Assessment Report](deliverables/Oscorp_Executive_Cybersecurity_Assessment_Report_Final.pdf)
-
-### 2. Detailed Cybersecurity Risk Analysis
-
-Detailed assessment of seven cybersecurity risks, including supporting findings, likelihood and impact ratings, current risk scores, NIST CSF 2.0 mappings, and recommended risk treatments.
-
-[View Detailed Risk Analysis](deliverables/Oscorp_Cybersecurity_Risk_Analysis_CSF2_Aligned.docx)
-
-### 3. Risk Management Workbook
-
-Supporting Excel workbook containing the cybersecurity risk register, 5×5 risk matrix, remediation plan, and three-year improvement roadmap.
-
-[View Risk Management Workbook](deliverables/Oscorp_Risk_Management_Workbook.xlsx)
-
-**Note:** This project represents a simulated cybersecurity consulting engagement using a fictional organization. Recommendations are proposed improvements rather than verified implementations.
+**Assessment limitation:** This project represents a simulated cybersecurity consulting engagement based on a fictional organization. Findings and recommendations are not evidence of an independently conducted production audit or formal NIST certification.
 ---
 
 ## 12. Conclusion
